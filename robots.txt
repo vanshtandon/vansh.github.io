@@ -1,1 +1,1 @@
-sitemap:http://vanshtandon.github.io/sitemap.xml
+sitemap:https://vanshtandon.github.io/sitemap.xml
